@@ -1,2 +1,2 @@
-# Lombok & Lambda
-# GitHub
+* Lombok & Lambda
+* GitHub
